@@ -1,0 +1,7 @@
+{
+    "name": "Tsuid",
+    "types": ["ts_list", "ts"],
+    "classRef": TsuidViz,
+    "desc": "!!DEBUG PURPOSE ESSENTIALLY!! Show internal data identifier (TSUID)",
+    "debugModeOnly": true
+}
